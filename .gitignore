@@ -1,0 +1,16 @@
+# Build output
+/out/
+/out-cli/
+*.class
+
+# IDE
+/.idea/
+*.iml
+.vscode/
+
+# JavaFX SDK (download separately)
+/lib/
+
+# OS
+.DS_Store
+Thumbs.db
